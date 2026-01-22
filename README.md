@@ -1,2 +1,6 @@
 # Python-Labs-tasks
-Python lab tasks for CS or SE.
+This repository contains common Python lab tasks and practice programs for
+Computer Science (CS) and Software Engineering (SE) students.
+## Topics Covered
+### 1. Add Two Numbers
+### 2. Table of a Number
